@@ -191,8 +191,10 @@
     <Content Include="Content\css\style.css" />
     <Content Include="Content\font-awesome.css" />
     <Content Include="Content\img\apple-touch-icon.png" />
+    <Content Include="Content\img\codemites.jpg" />
     <Content Include="Content\img\counters-bg.jpg" />
     <Content Include="Content\img\favicon.png" />
+    <Content Include="Content\img\info.jpg" />
     <Content Include="Content\img\intro-bg - Copy.jpg" />
     <Content Include="Content\img\intro-bg.jpg" />
     <Content Include="Content\img\myimg.jpeg" />
@@ -360,8 +362,6 @@
     <Content Include="Views\_ViewStart.cshtml" />
     <Content Include="Views\Shared\Error.cshtml" />
     <Content Include="Views\Shared\_Layout.cshtml" />
-    <Content Include="Views\Home\About.cshtml" />
-    <Content Include="Views\Home\Contact.cshtml" />
     <Content Include="Views\Home\Index.cshtml" />
     <Content Include="Views\Account\_ExternalLoginsListPartial.cshtml" />
     <Content Include="Views\Account\ConfirmEmail.cshtml" />
@@ -401,6 +401,10 @@
     <Content Include="fonts\fontawesome-webfont.ttf" />
     <Content Include="fonts\fontawesome-webfont.eot" />
     <None Include="Project_Readme.html" />
+    <Content Include="Views\Home\About.cshtml" />
+    <Content Include="Views\Home\Services.cshtml" />
+    <Content Include="Views\Home\Work.cshtml" />
+    <Content Include="Views\Home\Blogs.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Service Include="{4A0DDDB5-7A95-4FBF-97CC-616D07737A77}" />
