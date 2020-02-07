@@ -195,6 +195,7 @@
     <Content Include="Content\img\favicon.png" />
     <Content Include="Content\img\intro-bg - Copy.jpg" />
     <Content Include="Content\img\intro-bg.jpg" />
+    <Content Include="Content\img\myimg.jpeg" />
     <Content Include="Content\img\overlay-bg.jpg" />
     <Content Include="Content\img\post-1.jpg" />
     <Content Include="Content\img\post-2.jpg" />
